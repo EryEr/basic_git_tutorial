@@ -1,0 +1,19 @@
+.code{
+color: black;
+        font-weight: bold;
+        background-color: lightblue;
+        padding: 5px;
+
+
+}
+body{
+background-color: rgb(217, 250, 245);
+text-align:center;
+}
+
+img{
+border:4px solid;
+padding:4px;
+color:rgb(31, 145, 128);
+
+}
